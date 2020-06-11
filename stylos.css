@@ -1,0 +1,36 @@
+.cajitas {
+  
+  background-color: rgba(33, 37, 41, 0.9);
+  border-radius: 2rem;
+  border: blanchedalmond solid;
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+}
+
+.dentro{
+  color: aliceblue;
+  padding: 10%;
+}
+
+.fondo{
+  background-image: url(multimedia/fondo.jpg);
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: cover;
+}
+
+.hola{
+  background-image: url(multimedia/hola.jpg);
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: cover;
+}
+
+.ho{
+  background-image: url(multimedia/hi.jpg);
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: cover;
+}
